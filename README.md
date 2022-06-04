@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graphene911&show_icons=true&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=graphene911&fontSize=90&&fontColor=ffff&animation=fadeIn) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graphene911&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graphene911&langs_count=8)](https://github.com/graphene911/github-readme-stats)
+
+/github/pipenv/locked/python-version/:user/:repo
