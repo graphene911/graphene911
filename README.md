@@ -12,8 +12,8 @@
 <br/><br/>:gem: It's Me :gem: <br/><br/>
 <a href="https://story-jy.tistory.com"><img src="https://img.shields.io/badge/TSTORY-181717?style=flat-square&logo=&logoColor=white"/>
 <a href="https://github.com/graphene911"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<a href="graphene911@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:graphene9110@gmail.com)
+  
 <br/><br/> :computer: Tech Stacks :computer: <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <br/>
