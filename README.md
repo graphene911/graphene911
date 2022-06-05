@@ -2,9 +2,8 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=graphene911&fontSize=90&&fontColor=ffff&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Hello%20Universe!&fontSize=90&&fontColor=ffff&animation=fadeIn) 
 
-#  Hello Universe!
 
   
 [^1]:벳지
