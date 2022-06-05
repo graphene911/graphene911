@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graphene911&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=footer)
   
 
 
