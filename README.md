@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Hello%20Universe!&fontSize=90&&fontColor=ffff&animation=fadeIn) 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=220&section=header&text=Hello%20Universe!&fontSize=75&&fontColor=ffff&animation=fadeIn) 
 
 
   
