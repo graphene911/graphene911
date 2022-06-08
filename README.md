@@ -26,6 +26,7 @@
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)](https://numpy.org/install/)
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/install.html)
 <br/>
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/?hl=ko)
