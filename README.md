@@ -27,14 +27,19 @@
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn Badge](https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/install.html)
+[![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=ko)
 <br/>
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/?hl=ko)
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/download)
-<br/>
-[![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=ko)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/downloads/)
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/downloads/)
+<br/>
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/ko/console/)
+[![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-4479A1?style=flat&logo=Amazon%20RDS&logoColor=white)](https://aws.amazon.com/ko/rds/)
+[![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white)](https://aws.amazon.com/ko/ec2/?nc2=type_a)
+[![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white)](https://aws.amazon.com/ko/s3/?nc2=type_a)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graphene911&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
 
