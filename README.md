@@ -22,6 +22,7 @@
 ## :computer: Tech Stacks :computer: <br/><br/>
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/downloads/)
+[![java Badge](https://img.shields.io/badge/-java-orange?style=flat)](https://www.oracle.com/java/technologies/downloads/)
 <br/>
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)](https://numpy.org/install/)
 [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -34,6 +35,7 @@
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/download)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/downloads/)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/downloads/)
+[![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)](https://developer.android.com/studio)
 <br/>
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/ko/console/)
 [![Amazon RDS Badge](https://img.shields.io/badge/Amazon%20RDS-4479A1?style=flat&logo=Amazon%20RDS&logoColor=white)](https://aws.amazon.com/ko/rds/)
