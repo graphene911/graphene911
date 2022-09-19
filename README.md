@@ -1,7 +1,7 @@
   
 [^1]:벳지
 
-## :gem: GRAPHENE911 :gem: <br/><br/>
+## :gem: GRAPHENE911 :gem: <br/>
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/graphene911/)
 [![Tistory Badge](https://img.shields.io/badge/TSTORY-555263?style=flat&logoColor=white)](https://story-jy.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:graphene9110@gmail.com)
