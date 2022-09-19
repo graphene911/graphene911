@@ -1,10 +1,3 @@
-[^1]:헤더
-
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=220&section=header&text=Hello%20Universe!&fontSize=75&&fontColor=ffff&animation=fadeIn) 
-
-
   
 [^1]:벳지
 
@@ -13,11 +6,6 @@
 [![Tistory Badge](https://img.shields.io/badge/TSTORY-555263?style=flat&logoColor=white)](https://story-jy.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:graphene9110@gmail.com)
 <br/>
-[^1]:깃허브스텟
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graphene911&show_icons=true&theme=tokyonight) <br/><br/><br/>
-  
-
 
 ## :computer: Tech Stacks :computer: <br/>
 
@@ -59,11 +47,17 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graphene911&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+[^1]:깃허브스텟
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graphene911&show_icons=true&theme=tokyonight) <br/><br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:A5FECB,50:20BDFF,100:5433FF&height=100&section=footer)
-  
+## Project
 
+## [MatchRunProject보러가기]<br/>
+[MatchRunProject보러가기]: https://github.com/MatchRunProject/MatchRunProject
 
-</div>
+## [Streamlit Car Sales Web Dashboard]<br/>
+[Streamlit Car Sales Web Dashboard]: https://github.com/graphene911/streamlit-car-sales-app
+
+## [Streamlit Steam Game EDA Web Dashboard]<br/>
+[Streamlit Steam Game EDA Web Dashboard]: https://github.com/graphene911/streamlit-steamgame-app
