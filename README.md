@@ -53,8 +53,8 @@
 
 ## Project
 
-## [MatchRunProject보러가기]<br/>
-[MatchRunProject보러가기]: https://github.com/MatchRunProject/MatchRunProject
+## [MatchRunProject]<br/>
+[MatchRunProject]: https://github.com/MatchRunProject/MatchRunProject
 
 ## [Streamlit Car Sales Web Dashboard]<br/>
 [Streamlit Car Sales Web Dashboard]: https://github.com/graphene911/streamlit-car-sales-app
