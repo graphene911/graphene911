@@ -13,7 +13,7 @@
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/downloads/)
 [![java Badge](https://img.shields.io/badge/-java-orange?style=flat)](https://www.oracle.com/java/technologies/downloads/)<br/>
 
-## Framework
+## Framework<br/>
 [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/ko/)
 
@@ -29,6 +29,7 @@
 [![passlib Badge](https://img.shields.io/badge/passlib-512BD4?style=flat&logo=passlib&logoColor=white)](https://pypi.org/project/passlib/)
 [![email-validator Badge](https://img.shields.io/badge/email-validator-FF6C37?style=flat&logo=email-validator&logoColor=white)](https://pypi.org/project/email-validator/)
 [![Flask-JWT-Extended Badge](https://img.shields.io/badge/Flask-JWT%20Extended-FF6C37?style=flat&logo=Flask-JWT%20Extended&logoColor=white)](https://pypi.org/project/Flask-JWT-Extended/)<br/>
+
 ## IDE<br/>
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/?hl=ko)
@@ -37,6 +38,10 @@
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/downloads/)
 [![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white)](https://developer.android.com/studio)
 <br/>
+
+## Team Collaboration Tool<br/>
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://slack.com/intl/ko-kr/)
+[![Flow Badge](https://img.shields.io/badge/Flow-6236FF?style=flat&logo=Flow&logoColor=white)](https://flow.team/kr/index)
 
 ## AWS<br/>
 [![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/ko/console/)
